@@ -6,7 +6,7 @@ A simple DevOps-focused website created to demonstrate core DevOps concepts, too
 
 * Practice and showcase DevOps fundamentals
 * Demonstrate static website deployment
-* Serve as a personal DevOps learning/portfolio site
+* Serve as a personal DevOps learning
 
 ## 🛠️ Technologies Used
 
